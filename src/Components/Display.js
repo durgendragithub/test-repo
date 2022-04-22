@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 
-const Display = () => {
+const About = () => {
   return (
     <div>
-     <h1> i am content of Display.</h1>
+      <h4>I AM THE CONTENT OF Display PAGE</h4>
     </div>
   )
 }
 
-export default Display;
+export default About;

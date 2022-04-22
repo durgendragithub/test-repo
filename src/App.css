@@ -2,5 +2,6 @@ li{
   float:right;
   list-style-type: none;
   margin: 0 12px;
+  font-weight: 800;
   color:blue;
 }

@@ -1,14 +1,11 @@
-import React from 'react';
-import '../App.css'
+import React from 'react'
 
-const Home = () => {
+const About = () => {
   return (
     <div>
-      <div className="container">
-          <h1>content of home page</h1>
-      </div>
+      <h4>I AM THE CONTENT OF Home PAGE</h4>
     </div>
   )
 }
 
-export default Home;
+export default About;

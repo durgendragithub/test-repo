@@ -1,11 +1,13 @@
 import React from 'react'
 
-const Dashboard = () => {
+const About = () => {
   return (
     <div>
-      <h1> i am a content   of Dashboard page.</h1>
+      <center>
+      <h4>I AM THE CONTENT OF Dashboard PAGE</h4>
+      </center>
     </div>
   )
-} 
+}
 
-export default Dashboard;
+export default About;
